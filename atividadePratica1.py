@@ -25,3 +25,5 @@ print("Produto:", nome_produto)
 print("Preço unitário: R$", preco_unitario)
 print("Quantidade:", quantidade)
 print("Preço total: R$", preco_total)
+
+teste
